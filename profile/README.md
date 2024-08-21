@@ -4,6 +4,7 @@
 ### Tenor GitHub
 
 Here lies all of the public repositories of the Tenor Protocol.
+
 ---
 
 ### Getting Started
