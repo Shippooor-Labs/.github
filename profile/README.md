@@ -1,5 +1,4 @@
-
-![](https://github.com/user-attachments/assets/991b9fde-2cae-48ab-84f8-3deebd2cd6e5)
+![](https://github.com/user-attachments/assets/ca60eb58-e8f2-49f9-8cdc-e73bce9ddfd4)
 
 ---
 ### Tenor GitHub
