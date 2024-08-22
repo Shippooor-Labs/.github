@@ -9,7 +9,7 @@ Here lies all of the public repositories of the Tenor Protocol.
 
 ### Getting Started
 
-- [tenor-contracts](https://github.com/Shippoor-Labs/tenor-contracts): Tenor, Ethereum's fixed rate order book
+- [tenor-contracts](https://github.com/Shippooor-Labs/tenor-contracts): Tenor, Ethereum's fixed rate order book
 - [tenor-subgraph](https://github.com/Shippooor-Labs/tenor-subgraph): Tenor offchain subgraph
 - [tenor](https://github.com/Shippooor-Labs/tenor): Tenor whitepaper and research readings
 
